@@ -1,4 +1,3 @@
-Ptolemydata.csv
 name,ID,Pleiades
 Kaisaraugousta,pt-ll-580,246344
 Bernaba,pt-ll-581
